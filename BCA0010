@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Webpage</title>
+</head>
+<body>
+    <h1>Parul University</h1>
+
+    <h3>Courses:</h3>
+    <ul>
+        <li>BCA</li>
+        <li>MCA</li>
+        <li>IMCA</li>
+        <li>BBA</li>
+        <li>MBA</li>
+    </ul>
+    
+    <h3>Facilities:</h3>
+    <ol>
+        <li>Big Classroom</li>
+        <li>projector Room</li>
+        <li>Big Computer Lab</li>
+        <li>Good Plasement</li>
+    </ol>
+</body>
+</html>
